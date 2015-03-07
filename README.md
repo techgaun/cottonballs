@@ -27,6 +27,10 @@ Aside from getting Cottonballs, you generated SSL keys with `genkeys.sh`
 and you also might want to use `sudo` to run the service to allow the
 service to bind on SSL.
 
+### Docker Quick Start
+
+You can quickly run your GCM service using cottonballs by using [docker](https://github.com/techgaun/apn-gcm-docker). Please refer to [this documentation](https://github.com/techgaun/apn-gcm-docker/blob/master/README.md). 
+
 ### SSL?
 
 By default, Cottonballs will try to bind on SSL. The fastest possible
